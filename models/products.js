@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-let url = "mongodb://127.0.0.1:27017/productdb";
+let url = "mongodb+srv://pattana:dak19nad@cluster0.bjmgs.mongodb.net/test";
 
 
 //เชื่อมต่อ
